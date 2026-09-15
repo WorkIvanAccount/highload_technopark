@@ -74,7 +74,7 @@
 
 ## Список источников
 
-1. Яндекс.Метрика — официальная страница для бизнеса. URL: https://b2b.yandex.ru/adv/metrika (дата обращения: 2026).
-2. Yandex Cloud. Financial results 2024. URL: https://yandex.cloud/en/blog/posts/2025/03/financial-results-2024 (дата обращения: 2026).
-3. Russia-Promo. Yandex Advertising in Russia: Strategies with Yandex.Direct. URL: https://russia-promo.com/blog/promotion-on-the-russian-market-using-contextual-advertising (дата обращения: 2026).
+1. Яндекс.Метрика — официальная страница для бизнеса. URL: https://b2b.yandex.ru/adv/metrika.
+2. Yandex Cloud. Financial results 2024. URL: https://yandex.cloud/en/blog/posts/2025/03/financial-results-2024.
+3. Russia-Promo. Yandex Advertising in Russia: Strategies with Yandex.Direct. URL: https://russia-promo.com/blog/promotion-on-the-russian-market-using-contextual-advertising.
 
